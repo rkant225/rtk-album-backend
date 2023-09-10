@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "Patricia Lang",
+      "id": 4
+    },
+    {
+      "name": "Boyd Swift",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "album": "Frankenstein",
+      "userId": 5,
+      "id": 1
+    },
+    {
+      "album": "We Are the Champions",
+      "userId": 5,
+      "id": 2
+    },
+    {
+      "album": "My Love",
+      "userId": 5,
+      "id": 3
+    },
+    {
+      "album": "Careless Whisper",
+      "userId": 5,
+      "id": 5
+    },
+    {
+      "album": "Sweet Child O' Mine",
+      "userId": 4,
+      "id": 6
+    }
+  ],
+  "photos": [
+    {
+      "id": 6,
+      "url": "",
+      "albumId": 3
+    },
+    {
+      "url": "https://loremflickr.com/100/100?lock=976572402106368",
+      "albumId": 2,
+      "id": 11
+    },
+    {
+      "url": "https://loremflickr.com/100/100?lock=225127709016064",
+      "albumId": 5,
+      "id": 12
+    },
+    {
+      "url": "https://loremflickr.com/100/100?lock=5741286411730944",
+      "albumId": 5,
+      "id": 13
+    },
+    {
+      "url": "https://loremflickr.com/100/100?lock=3243527488143360",
+      "albumId": 1,
+      "id": 14
+    }
+  ]
+}
